@@ -371,20 +371,11 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 - All beta testers and early users
 - Everyone who reported issues and suggested features
 
-## 📊 Project Stats
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/rod-trent/peloton-garmin-sync)
-![GitHub all releases](https://img.shields.io/github/downloads/rod-trent/peloton-garmin-sync/total)
-![GitHub](https://img.shields.io/github/license/rod-trent/peloton-garmin-sync)
-![GitHub issues](https://img.shields.io/github/issues/rod-trent/peloton-garmin-sync)
-![GitHub stars](https://img.shields.io/github/stars/rod-trent/peloton-garmin-sync)
-
 ## 🔗 Links
 
 - [Report Bug](../../issues/new?labels=bug)
 - [Request Feature](../../issues/new?labels=enhancement)
 - [Releases](../../releases)
-- [Build Instructions](BUILD_INSTRUCTIONS.md)
 
 ## 💬 Support
 
@@ -393,7 +384,7 @@ Need help? Have questions?
 - 📖 Check the [FAQ](#faq) section
 - 🐛 Search [existing issues](../../issues)
 - 💬 Open a [new issue](../../issues/new)
-- 📧 Contact: [Your contact method]
+- 📧 Contact: [On X](https://x.com/rodtrent], [on LinkedIn](https://www.linkedin.com/in/rodtrent/), [on Substack](https://rodtrent.com)
 
 ---
 
