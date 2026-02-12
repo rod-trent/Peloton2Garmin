@@ -1,4 +1,4 @@
-# Peloton 2 Garmin Sync
+# Peloton 2 Garmin Sync App
 
 <p align="center">
   <img src="https://github.com/rod-trent/Peloton2Garmin/blob/main/Images/P2GIcon.ico" alt="Peloton 2 Garmin Sync" width="128" height="128">
