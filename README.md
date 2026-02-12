@@ -373,11 +373,11 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## 📊 Project Stats
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/peloton-garmin-sync)
-![GitHub all releases](https://img.shields.io/github/downloads/yourusername/peloton-garmin-sync/total)
-![GitHub](https://img.shields.io/github/license/yourusername/peloton-garmin-sync)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/peloton-garmin-sync)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/peloton-garmin-sync)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rod-trent/peloton-garmin-sync)
+![GitHub all releases](https://img.shields.io/github/downloads/rod-trent/peloton-garmin-sync/total)
+![GitHub](https://img.shields.io/github/license/rod-trent/peloton-garmin-sync)
+![GitHub issues](https://img.shields.io/github/issues/rod-trent/peloton-garmin-sync)
+![GitHub stars](https://img.shields.io/github/stars/rod-trent/peloton-garmin-sync)
 
 ## 🔗 Links
 
