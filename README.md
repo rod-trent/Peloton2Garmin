@@ -385,7 +385,7 @@ Need help? Have questions?
 - 🐛 Search [existing issues](../../issues)
 - 💬 Open a [new issue](../../issues/new)
 - 📧 Contact:
--   [on X](https://x.com/rodtrent]
+-   [on X](https://x.com/rodtrent)
 -   [on LinkedIn](https://www.linkedin.com/in/rodtrent/)
 -   [on Substack](https://rodtrent.com)
 
