@@ -8,15 +8,6 @@
   <strong>Seamlessly sync your Peloton workouts to Garmin Connect with complete metrics</strong>
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="#contributing">Contributing</a>
-</p>
-
 ---
 
 ## 🎯 Overview
@@ -78,14 +69,7 @@ Your Peloton workouts sync to Garmin with **full fidelity**:
 2. Run the installer
 3. Launch from Start Menu or Desktop shortcut
 
-### Option 2: Portable Executable
-
-1. Download the standalone executable from [Releases](../../releases)
-   - `Peloton2GarminSync.exe`
-2. Run directly - no installation needed
-3. All settings saved to `%USERPROFILE%\.peloton_garmin_sync\`
-
-### Option 3: Run from Source
+### Option 2: Run from Source
 
 **Requirements:**
 - Python 3.11 or later
@@ -143,6 +127,7 @@ python peloton_garmin_fluent_app.py
 
 ### Main Interface
 *Modern Fluent Design with workout list and sync controls*
+[](https://github.com/rod-trent/Peloton2Garmin/blob/main/Images/MainAppWindow.png)
 
 ### Settings Panel
 *Easy token configuration with browser-based authentication*
