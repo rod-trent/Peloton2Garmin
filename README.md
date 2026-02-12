@@ -384,7 +384,10 @@ Need help? Have questions?
 - 📖 Check the [FAQ](#faq) section
 - 🐛 Search [existing issues](../../issues)
 - 💬 Open a [new issue](../../issues/new)
-- 📧 Contact: [On X](https://x.com/rodtrent], [on LinkedIn](https://www.linkedin.com/in/rodtrent/), [on Substack](https://rodtrent.com)
+- 📧 Contact:
+-   [on X](https://x.com/rodtrent]
+-   [on LinkedIn](https://www.linkedin.com/in/rodtrent/)
+-   [on Substack](https://rodtrent.com)
 
 ---
 
