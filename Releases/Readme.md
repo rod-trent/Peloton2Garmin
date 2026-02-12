@@ -48,29 +48,7 @@ Welcome to the Releases page for **Peloton 2 Garmin Sync**! Download the latest 
 
 ---
 
-### Option 2: Portable Executable
-
-**File:** `Peloton2GarminSync.exe`  
-**Size:** ~50-70 MB  
-**SHA256:** `[checksum here]`
-
-**Includes:**
-- Single executable file
-- No installation required
-- Run from any location
-- All dependencies bundled
-
-**Usage:**
-1. Download the executable
-2. Place in any folder (e.g., `C:\Tools\`)
-3. Double-click to run
-4. Settings saved to `%USERPROFILE%\.peloton_garmin_sync\`
-
-**Best for:** Users who want portability or don't have admin rights
-
----
-
-### Option 3: Source Code
+### Option 2: Source Code
 
 **File:** `peloton2garmin-source.zip`  
 **Size:** ~128 KB  
