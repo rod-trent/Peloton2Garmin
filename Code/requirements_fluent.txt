@@ -1,0 +1,12 @@
+# Peloton to Garmin Sync - Standalone App Requirements
+
+# Core dependencies
+requests>=2.31.0
+garth>=0.4.0
+garminconnect>=0.2.0
+
+# FIT file creation
+fit-tool>=0.9.0
+
+# Optional: For better date handling
+python-dateutil>=2.8.0
