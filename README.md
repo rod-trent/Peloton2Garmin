@@ -375,7 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 - [Report Bug](../../issues/new?labels=bug)
 - [Request Feature](../../issues/new?labels=enhancement)
-- [Releases](../../releases)
+- [Releases](https://github.com/rod-trent/Peloton2Garmin/tree/main/Releases)
 
 ## 💬 Support
 
