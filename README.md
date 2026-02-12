@@ -127,14 +127,17 @@ python peloton_garmin_fluent_app.py
 
 ### Main Interface
 *Modern Fluent Design with workout list and sync controls*
+
 [Main App Window](https://github.com/rod-trent/Peloton2Garmin/blob/main/Images/MainAppWindow.png)
 
 ### Settings Panel
 *Easy token configuration with browser-based authentication*
+
 [Settings Window](https://github.com/rod-trent/Peloton2Garmin/blob/main/Images/SettingsPage.png)
 
 ### Garmin Connect Results
 *Complete workout data including HR zones, power, cadence, and speed graphs*
+
 [Garmin Results](https://github.com/rod-trent/Peloton2Garmin/blob/main/Images/ConnectResults.png)
 
 ## 🔧 How It Works
