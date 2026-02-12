@@ -1,7 +1,7 @@
 # Peloton 2 Garmin Sync
 
 <p align="center">
-  <img src="code/P2GIcon.ico" alt="Peloton 2 Garmin Sync" width="128" height="128">
+  <img src="/code/P2GIcon.ico" alt="Peloton 2 Garmin Sync" width="128" height="128">
 </p>
 
 <p align="center">
