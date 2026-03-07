@@ -8,7 +8,7 @@
   <strong>Seamlessly sync your Peloton workouts to Garmin Connect with complete metrics</strong>
 </p>
 
-### UPDATE: Since this tool was released, Peloton updated its connection to Garmin as a two-way synchronization. The implemention works extremely well. I will keep this tool here for those interested in how to connect to Garmin and Peloton using Python, but future development is paused.
+### UPDATE: Since this tool was released, Peloton updated its connection to Garmin as a two-way synchronization. The implementation works extremely well. I will keep this tool here for those interested in how to connect to Garmin and Peloton using Python, but future development is paused.
 
 ---
 
